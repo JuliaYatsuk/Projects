@@ -1,0 +1,59 @@
+
+
+body {
+  font-size: 10px;
+
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+/** HEADER **/
+#header-nav {
+  font-size: 10px;
+  border-radius: 0;
+  border: 10px;
+  background-color: gray; 
+  color: black;
+}
+h1
+{
+    font-size: 24px;
+            font-family: 'Oxygen', sans-serif;
+    margin: 0;
+    padding:0;
+    color: black;
+}
+
+#MyButton.navbar-toggle
+{
+  
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  font-size:12px;
+  }
+
+ 
+
+ 
+
+#collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+    text-align:center;
+    color:black;
+    background-color: #fff;
+    width:100%;
+    margin: -7px 0 -7px 0;
+    border: 1px black solid;
+    box-sizing: border-box;  }
+
+    #main-content{
+      background-color:gray;
+      font-size: 16px;
+    }
+    h4{
+      text-align: center;
+      margin: 20px;
+    }
+
